@@ -2,11 +2,11 @@
   "name": "rabbitcoin",
   "symbol": "RBT",
   "description": "rabbitcoin (RBT) — community token.",
-  "image": "https://raw.githubusercontent.com/<user>/<repo>/main/rabbitcoin.png",
+  "image": "https://raw.githubusercontent.com/mameise/rbt-meta/refs/heads/main/rbt.png?token=GHSAT0AAAAAADL2TY7KMATFK56ZJ5QH5TF22GVDELQ",
   "attributes": [],
   "properties": {
     "files": [
-      { "uri": "https://raw.githubusercontent.com/<user>/<repo>/main/rabbitcoin.png", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/mameise/rbt-meta/refs/heads/main/rbt.png?token=GHSAT0AAAAAADL2TY7KMATFK56ZJ5QH5TF22GVDELQ", "type": "image/png" }
     ],
     "category": "image"
   }
